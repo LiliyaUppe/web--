@@ -1,0 +1,35 @@
+html{
+    background-color:rgb(231, 198, 236);
+}
+p{
+    text-indent:10px;
+    text-align: justify;
+    margin: 5px;
+}
+
+h1 {
+    color: rgb(7, 7, 7);
+}
+h2{
+    background-color:rgb(224, 153, 214);
+}
+div {
+    border: 1px solid rgb(224, 153, 214); 
+    background-color:rgb(224, 153, 214);
+    width: fit-content;
+    padding: 2px; 
+    border-radius: 12px;
+}
+p2{
+    text-indent:10px;
+    text-align: justify;
+    position: absolute; /* Абсолютное позиционирование */
+    top: 630px; /* Положение от верхнего края */
+    left: 250px; /* Положение от левого края */
+    width: fit-content; /* Ширина блока */
+    border: 1px solid rgb(224, 153, 214); 
+    background-color:rgb(224, 153, 214);
+    width: fit-content;
+    padding: 2px; 
+    border-radius: 12px;
+}
